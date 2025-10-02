@@ -1,0 +1,3 @@
+{
+  "_description": "Cannot write binary gradle-wrapper.jar file using file_operations. The system will handle this automatically when running Gradle commands."
+}
